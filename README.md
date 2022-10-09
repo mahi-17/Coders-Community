@@ -32,19 +32,4 @@
 
 ---
 
-### Here are some sample ScreenShots.
-
-- Signup and Login Page(with validation and Google O-auth2)
-  ![signup and login page](https://i.ibb.co/fdBTjv8/Screenshot-181.png)
-
-- Profile Page(With Edit Feat.)
-  ![profile page](https://i.ibb.co/K6HxsXp/Screenshot-183.png)
-
-- Single Post page( with edit , delete and Commenting Feature).
-  ![Single Post with Commenting Feature](https://i.ibb.co/yR6ZFVT/Screenshot-182.png)
-
-- All posts.
-  ![All posts page](https://i.ibb.co/42TccKp/Screenshot-184.png)
-
----
 
